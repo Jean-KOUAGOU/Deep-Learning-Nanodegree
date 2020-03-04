@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Private ignore 
+data/
+Data/
+DATA/
+Cat_Dog_data/
+summer2winter-yosemite/

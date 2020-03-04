@@ -10,4 +10,3 @@ Find bellow the list of completed project during the Nanodegree
 - [Project 3: Generate TV Scripts](https://github.com/Kabongosalomon/Tv-Script-Generation)
 - [Project 4: Generate Faces](https://github.com/Kabongosalomon/Face-Generation-Project)
 - [Project 5: Deploy a Sentiment Analysis Model](https://github.com/Kabongosalomon/Sentiment-Analysis-SageMaker-Web-App)
-- 
