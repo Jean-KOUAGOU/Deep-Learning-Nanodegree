@@ -2,7 +2,7 @@
 This project contains my exploration of the Deep Learning Nanodegree. 
 
 
-## Project 
+## Projects
 Find bellow the list of completed project during the Nanodegree
 
 - [Project 1: Predicting Bike-Sharing Patterns](https://github.com/Kabongosalomon/BikeSharing) 
@@ -11,13 +11,19 @@ Find bellow the list of completed project during the Nanodegree
 - [Project 4: Generate Faces](https://github.com/Kabongosalomon/Face-Generation-Project)
 - [Project 5: Deploy a Sentiment Analysis Model](https://github.com/Kabongosalomon/Sentiment-Analysis-SageMaker-Web-App)
 
-## [Introduction to Federated Learning and Differential Privacy](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/tree/master/Differential%20Privacy)
+## Introduction to Federated Learning
+
+- [Section 1 - Differential_Privacy](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/blob/master/Differential%20Privacy/Section%201%20-%20Differential_Privacy.ipynb)
+- [Section 2 - Federated Learning](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/blob/master/Differential%20Privacy/Section%202%20-%20Federated%20Learning.ipynb)
+- [Section 3 - Securing Federated Learning](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/blob/master/Differential%20Privacy/Section%203%20-%20Securing%20Federated%20Learning.ipynb)
+- [Section 4 - Encrypted Deep Learning](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/blob/master/Differential%20Privacy/Section%204%20-%20Encrypted%20Deep%20Learning.ipynb)
+
 
 ## Interesting Application of Deep Learning
 
-### [Fast Style Transfers](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/tree/master/fast-style-transfer) 
+### Fast Style Transfers
 
-#### Video Stylization 
+- [Video Stylization](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/tree/master/fast-style-transfer)
 Here we transformed every frame in a video, then combined the results. [Click to go to the full demo on YouTube!](https://www.youtube.com/watch?v=xVJwwWQlQ1o) The style here is Udnie, as above.
 <div align = 'center'>
      <a href = 'https://www.youtube.com/watch?v=xVJwwWQlQ1o'>
@@ -27,7 +33,7 @@ Here we transformed every frame in a video, then combined the results. [Click to
 
 See how to generate these videos [here](#stylizing-video)!
 
-#### Image Stylization
+- [Image Stylization](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/tree/master/fast-style-transfer) 
 We added styles from various paintings to a photo of Chicago. Click on thumbnails to see full applied style images.
 <div align='center'>
 <img src = 'fast-style-transfer/examples/content/chicago.jpg' height="200px">
