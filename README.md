@@ -11,9 +11,11 @@ Find bellow the list of completed project during the Nanodegree
 - [Project 4: Generate Faces](https://github.com/Kabongosalomon/Face-Generation-Project)
 - [Project 5: Deploy a Sentiment Analysis Model](https://github.com/Kabongosalomon/Sentiment-Analysis-SageMaker-Web-App)
 
+## [Introduction to Federated Learning and Differential Privacy](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/tree/master/Differential%20Privacy)
+
 ## Interesting Application of Deep Learning
 
-### [Fast Style Transfers]() 
+### [Fast Style Transfers](https://github.com/Kabongosalomon/Deep-Learning-Nanodegree/tree/master/fast-style-transfer) 
 
 #### Video Stylization 
 Here we transformed every frame in a video, then combined the results. [Click to go to the full demo on YouTube!](https://www.youtube.com/watch?v=xVJwwWQlQ1o) The style here is Udnie, as above.
